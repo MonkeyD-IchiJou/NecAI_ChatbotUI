@@ -1,4 +1,4 @@
-# NEC AI Custom Chatbot UI ![nvm version](https://img.shields.io/badge/version-v0.5-yellow.svg)
+# NEC AI Custom Chatbot UI ![nvm version](https://img.shields.io/badge/version-v2.1-green.svg)
 
 ## Table of Contents
 - [Introduction](#introduction)
