@@ -7,16 +7,29 @@
 
 
 ## Introduction
-yayafyadfasdfasf
-adfasdfasdf
-asdfasfasdf
+We are using [React JS](https://facebook.github.io/react/) framework to create our chatbot frontend.
+[NodeJs](https://github.com/creationix/nvm) is required for this project.
+Pls installed it by using [NVM](https://github.com/creationix/nvm) if you havent alr
 
 ## Installation
-yayafyadfasdfasf
-adfasdfasdf
-asdfasfasdf
+
+Open your terminal, in your git repo directory
+
+Install the neccessary packages using:
+
+```sh
+npm install
+```
 
 ## Usage
-yayafyadfasdfasf
-adfasdfasdf
-asdfasfasdf
+
+To start developing the project, using:
+
+```sh
+npm start
+```
+
+To build the whole project, use:
+```sh
+npm run build
+```
